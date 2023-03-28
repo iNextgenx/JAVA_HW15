@@ -1,3 +1,5 @@
+package ru.netology.tickets;
+
 import java.util.Objects;
 
 public class Ticket implements Comparable<Ticket> {

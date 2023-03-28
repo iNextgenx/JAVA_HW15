@@ -1,3 +1,5 @@
+package ru.netology.tickets;
+
 import java.util.Arrays;
 import java.util.Comparator;
 
